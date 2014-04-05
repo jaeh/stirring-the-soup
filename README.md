@@ -1,7 +1,7 @@
 Stirring the Soup
 ===
 
-Small Javascripts that change content on soup.io
+Small Javascripts that change content on [soup](soup.io)
 
 What is it?
 =====
