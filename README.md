@@ -39,7 +39,7 @@ eg make all text items editable ;)
 the scripts will only work on your own soup,
 but it will work for everyone visiting it as well ;)
 
-this also is how the pirateship on [@jascha](http://jascha.soup.io) works, the source for the ship and waves is on github as well: [arr](https://github.com/jaeh/arr)
+the source for the ship and waves that you can see on [@jascha](http://jascha.soup.io) is on github as well: [arr](https://github.com/jaeh/arr)
 
 UNLICENSE:
 COPYLEFT &#9398; 0000 - 2013 All Rites Reversed
