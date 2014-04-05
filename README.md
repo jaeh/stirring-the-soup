@@ -1,7 +1,7 @@
 Stirring the Soup
 ===
 
-Small Javascripts that change content on [soup](soup.io)
+Small Javascripts that change content on [soup.io](http://soup.io)
 
 What is it?
 =====
@@ -39,8 +39,7 @@ eg make all text items editable ;)
 the scripts will only work on your own soup,
 but it will work for everyone visiting it as well ;)
 
-(this also is how the pirateship on [@jascha](http://jascha.soup.io) works, the source for the ship and waves is [on github: arr](https://github.com/jaeh/arr) ;) )
-
+this also is how the pirateship on [@jascha](http://jascha.soup.io) works, the source for the ship and waves is on github as well: [arr](https://github.com/jaeh/arr)
 
 UNLICENSE:
 COPYLEFT &#9398; 0000 - 2013 All Rites Reversed
